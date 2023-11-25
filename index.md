@@ -1,6 +1,7 @@
 # DSC180A Methodology Assignment 5, Task 2
 
 Name: Emily Chen
+
 UCSD Email: e6chen@ucsd.edu
 
 **1. What is the most interesting topic covered in your domain this quarter?**
